@@ -20,7 +20,7 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 ## Published talks, blogs, etc.
 
 **2024**
-- 2024/11/04 - Talk: [Defending Against ADCS Domain Escalation Techniques](https://github.com/JonasBK/Presentations/blob/main/2024-11-04%20SPAN%20Cyber%20Security%20Arena/SPAN%20presentation.pdf)
+- 2024/11/04 - Talk: [Defending Against ADCS Domain Escalation Techniques (Span Cyber Security Arena)](https://github.com/JonasBK/Presentations/blob/main/2024-11-04%20SPAN%20Cyber%20Security%20Arena/SPAN%20presentation.pdf)
 - 2024/09/11 - Blogpost: [ADCS Attack Paths in BloodHound — Part 3](https://posts.specterops.io/adcs-attack-paths-in-bloodhound-part-3-33efb00856ac)
 - 2024/06/26 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (Troopers)](https://troopers.de/troopers24/talks/kzymd8/)
 - 2024/06/14 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (x33fcon)](https://youtu.be/vc3J0wGl7g0)
