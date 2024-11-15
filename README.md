@@ -20,12 +20,13 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 ## Published talks, blogs, etc.
 
 **2024**
+- 2024/11/14 - Webinar: [What is Tier Zero - Part 4](https://specterops.zoom.us/webinar/register/WN_RFwGUrvkReuCRMAhz1bUVA#/registration)
 - 2024/11/04 - Talk: [Defending Against ADCS Domain Escalation Techniques (Span Cyber Security Arena)](https://github.com/JonasBK/Presentations/blob/main/2024-11-04%20SPAN%20Cyber%20Security%20Arena/SPAN%20presentation.pdf)
 - 2024/09/11 - Blogpost: [ADCS Attack Paths in BloodHound — Part 3](https://posts.specterops.io/adcs-attack-paths-in-bloodhound-part-3-33efb00856ac)
 - 2024/06/26 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (Troopers)](https://troopers.de/troopers24/talks/kzymd8/)
 - 2024/06/14 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (x33fcon)](https://youtu.be/vc3J0wGl7g0)
 - 2024/05/01 - Blogpost: [ADCS Attack Paths in BloodHound — Part 2](https://posts.specterops.io/adcs-attack-paths-in-bloodhound-part-2-ac7f925d1547)
-- 2024/03/27 - Webinar: [Defining the Undefined: What is Tier Zero Part III](https://specterops.zoom.us/webinar/register/WN_0It_u8csQnmTHE_GYO7aYQ#/registration)
+- 2024/03/27 - Webinar: [What is Tier Zero - Part 3](https://www.youtube.com/watch?v=ykrse1rsvy4)
 - 2024/03/20 - Blogpost: [Pwned by the Mail Carrier](https://posts.specterops.io/pwned-by-the-mail-carrier-0750edfad43b)
 - 2024/03/11 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (SO-CON)](https://www.youtube.com/watch?v=u35nj0K9IjU)
 - 2024/02/28 - Blogpost: [ADCS ESC14 Abuse Technique](https://posts.specterops.io/adcs-esc14-abuse-technique-333a004dc2b9)
@@ -34,11 +35,11 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 
 **2023**
 - 2023/12/07 - Webinar: [ADCS Attack Paths in BloodHound](https://www.youtube.com/watch?v=o4SSFv5Gfzs&l)
-- 2023/09/14 - Blogpost: [What is Tier Zero — Part 2](https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf)
-- 2023/09/12 - Webinar: [Defining the Undefined: What is Tier Zero Part II](https://www.youtube.com/watch?v=SAI3mXQgy_I)
+- 2023/09/14 - Blogpost: [What is Tier Zero - Part 2](https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf)
+- 2023/09/12 - Webinar: [What is Tier Zero - Part 2](https://www.youtube.com/watch?v=SAI3mXQgy_I)
 - 2023/06/28 - Talk: [Hidden Pathways: Exploring the Anatomy of ACL-Based Active Directory Attacks and Building Strong Defenses (Troopers)](https://www.youtube.com/watch?v=4aQZUdpmQno)
-- 2023/06/22 - Webinar: [Defining the Undefined: What is Tier Zero](https://www.youtube.com/watch?v=5Ho83R9Jy68)
-- 2023/06/22 - Blogpost: [What is Tier Zero — Part 1](https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca)
+- 2023/06/22 - Webinar: [What is Tier Zero - Part 1](https://www.youtube.com/watch?v=5Ho83R9Jy68)
+- 2023/06/22 - Blogpost: [What is Tier Zero - Part 1](https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca)
 - 2023/05/23 - Blogpost: [FOSS BloodHound 4.3.1 release](https://medium.com/specter-ops-posts/foss-bloodhound-4-3-1-release-7606f87786f6)
 - 2023/01/10 - Blogpost: [Protect Active Directory users from password attacks with Fine-Grained Password Policy (FGPP)](https://www.linkedin.com/pulse/protect-active-directory-users-from-password-attacks-b%C3%BClow-knudsen/)
 
