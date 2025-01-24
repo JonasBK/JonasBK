@@ -6,6 +6,7 @@ I have a background as a security consultant working with customers to harden th
 
 ## Online profiles
 - [GitHub](https://github.com/JonasBK)
+- [Bluesky](https://bsky.app/profile/jonas-bk.bsky.social)
 - [Twitter](https://twitter.com/Jonas_B_K)
 - [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 - [Medium (blog)](https://medium.com/@jonasblowknudsen)
