@@ -20,6 +20,9 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 
 ## Published talks, blogs, etc.
 
+**2025**
+- 2025/03/31 - Talk: [Security Boundaries within an Active Directory Forest (SO-CON)](https://youtu.be/bTl-56MmuSM?si=_WdvhfHxirIckNoR)
+
 **2024**
 - 2024/11/14 - Webinar: [What is Tier Zero - Part 4](https://specterops.zoom.us/webinar/register/WN_RFwGUrvkReuCRMAhz1bUVA#/registration)
 - 2024/11/04 - Talk: [Defending Against ADCS Domain Escalation Techniques (Span Cyber Security Arena)](https://github.com/JonasBK/Presentations/blob/main/2024-11-04%20SPAN%20Cyber%20Security%20Arena/SPAN%20presentation.pdf)
