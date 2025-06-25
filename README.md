@@ -21,6 +21,9 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 ## Published talks, blogs, etc.
 
 **2025**
+- 2025/06/25 - Blogpost: [Untrustworthy Trust Builders: Account Operators Replicating Trust Attack (AORTA)](https://specterops.io/blog/2025/06/25/untrustworthy-trust-builders-account-operators-replicating-trust-attack-aorta/)
+- 2025/06/25 - Blogpost: [Good Fences Make Good Neighbors: New AD Trusts Attack Paths in BloodHound](specterops.io/blog/2025/06/25/good-fences-make-good-neighbors-new-ad-trusts-attack-paths-in-bloodhound/)
+- 2025/06/25 - Talk: [Breaking Boundaries: Unraveling AD Cross-Forest Attack Paths (Troopers)](https://github.com/JonasBK/Presentations/blob/main/Breaking%20Boundaries%20-%20Unraveling%20AD%20Cross-Forest%20Attack%20Paths.pdf)
 - 2025/03/31 - Talk: [Security Boundaries within an Active Directory Forest (SO-CON)](https://youtu.be/bTl-56MmuSM?si=_WdvhfHxirIckNoR)
 
 **2024**
