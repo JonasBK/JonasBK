@@ -1,8 +1,8 @@
 ### Hi! 👋 
 
-My name is Jonas, and I am working as a manager in the research team of SpecterOps. I enjoy writing ugly code to solve real and imaginary technical problems in the offensive and defensive security space. In my daily tasks, I investigate attack vectors to determine how they can be implemented in [BloodHound](https://github.com/SpecterOps/BloodHound).
+My name is Jonas, and I work as a manager on the research team at SpecterOps. I'm a passionate security professional who enjoys diving into real and imaginary problems across the offensive and defensive landscape. I spend my days researching attack techniques and translating them into graph models within [BloodHound](https://github.com/SpecterOps/BloodHound).
 
-I have a background as a security consultant working with customers to harden their AD and Windows infrastructure, and I have practical experience fixing and breaking customer environments with security measures such as AD tiering, Protected Users, IPSec, and disabling NTLM.
+Before joining SpecterOps, I worked as a security consultant, helping organizations harden their Active Directory and Windows environments. I bring practical experience from defending (and breaking) enterprise systems, including implementing security measures like AD tiering, Protected Users, IPSec, and NTLM hardening.
 
 ## Online profiles
 - [GitHub](https://github.com/JonasBK)
