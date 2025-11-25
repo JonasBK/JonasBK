@@ -69,7 +69,7 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 - 2021/08/16 - Talk: [ImproHound demo - DEF CON Adversary Village presentation (DEFCON channel)](https://www.youtube.com/watch?v=FRSVu0GBR3w)
 - 2021/08/08 - Talk: [ImproHound demo - DEF CON Adversary Village presentation](https://www.youtube.com/watch?v=MTsPTI7OoqM)
 - 2021/06/04 - Video: [ImproHound demo](https://www.youtube.com/watch?v=zQ01tvTr6H0)
-- 2021/04/21 - Blogpost: [ImproHound - Identify AD tiering violations](https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations)
+- 2021/04/21 - Blogpost: [ImproHound - Identify AD tiering violations](https://web.archive.org/web/20230601102942/https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations)
 - 2021/04/16 - Tool: [ImproHound](https://github.com/improsec/ImproHound)
 
 **2020**
