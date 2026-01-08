@@ -9,7 +9,6 @@ Before joining SpecterOps, I worked as a security consultant, helping organizati
 - [Bluesky](https://bsky.app/profile/jonas-bk.bsky.social)
 - [Twitter](https://twitter.com/Jonas_B_K)
 - [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
-- [Medium (blog)](https://medium.com/@jonasblowknudsen)
 - [BloodHoundGang Slack](https://bloodhoundhq.slack.com/team/U01LT8JDNAD)
 
 Feel free to reach out to me on Twitter, LinkedIn, or BloodHoundGang Slack.
